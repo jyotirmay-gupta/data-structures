@@ -12,7 +12,7 @@ package org.jyotirmay.gupta.ds.list;
  * @author Jyotirmay Gupta
  * @version 1.0
  */
-public interface LinkedList<E> {
+public interface LinkedListOperations<E> {
 
     // --- Positional Insertion ---
 
