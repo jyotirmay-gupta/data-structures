@@ -12,7 +12,7 @@ package org.jyotirmay.gupta.ds.queue;
  * @author Jyotirmay Gupta
  * @version 1.0
  */
-public interface Queue<E> {
+public interface QueueOperations<E> {
 
     // --- Insertion ---
 
