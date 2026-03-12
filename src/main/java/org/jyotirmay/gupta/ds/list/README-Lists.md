@@ -1,4 +1,4 @@
-# LinkedList Interface
+# LinkedList Operations
 
 A high-performance, generic **Linked List** contract for Java applications. This interface defines the standard behaviors for a linear collection that requires efficient insertions and deletions at both the head and tail.
 
