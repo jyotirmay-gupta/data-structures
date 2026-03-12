@@ -1,4 +1,4 @@
-# Binary Tree Interface
+# Binary Tree Operations
 
 Blueprints for hierarchical data structures, ranging from generic Binary Trees to sorted Search Trees.
 
