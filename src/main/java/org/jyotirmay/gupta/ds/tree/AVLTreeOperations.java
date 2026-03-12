@@ -11,7 +11,7 @@ package org.jyotirmay.gupta.ds.tree;
  * @author Jyotirmay Gupta
  * @version 1.0
  */
-public interface AVLTree<E extends Comparable<E>> extends BinarySearchTree<E> {
+public interface AVLTreeOperations<E extends Comparable<E>> extends BinarySearchTreeOperations<E> {
 
     /**
      * Calculates the balance factor of a node.
