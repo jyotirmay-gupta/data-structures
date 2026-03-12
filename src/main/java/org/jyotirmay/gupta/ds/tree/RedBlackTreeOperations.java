@@ -12,7 +12,7 @@ package org.jyotirmay.gupta.ds.tree;
  * @author Jyotirmay Gupta
  * @version 1.0
  */
-public interface RedBlackTree<E extends Comparable<E>> extends BinarySearchTree<E> {
+public interface RedBlackTreeOperations<E extends Comparable<E>> extends BinarySearchTreeOperations<E> {
 
     /**
      * Enumeration representing the valid colors for a node in a Red-Black Tree.
