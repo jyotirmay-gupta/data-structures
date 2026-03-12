@@ -1,4 +1,4 @@
-# RedBlackTree Interface
+# RedBlackTree Operations
 
 The **Red-Black Tree** provides a self-balancing mechanism that guarantees $O(\log n)$ performance.
 
