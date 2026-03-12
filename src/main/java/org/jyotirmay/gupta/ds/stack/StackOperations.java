@@ -12,7 +12,7 @@ package org.jyotirmay.gupta.ds.stack;
  * @author Jyotirmay Gupta
  * @version 1.0
  */
-public interface Stack<E> {
+public interface StackOperations<E> {
 
     /**
      * Pushes an item onto the top of this stack.
