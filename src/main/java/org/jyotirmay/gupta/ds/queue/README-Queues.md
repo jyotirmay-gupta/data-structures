@@ -1,4 +1,4 @@
-# Queue Interface
+# Queue Operations
 
 A standardized interface for **First-In-First-Out (FIFO)** processing, ideal for task scheduling and messaging buffers.
 
