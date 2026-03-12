@@ -1,4 +1,4 @@
-# Stack Interface
+# Stack Operations
 
 A specialized interface for **Last-In-First-Out (LIFO)** data structures, typically used for undo buffers or expression evaluation.
 
