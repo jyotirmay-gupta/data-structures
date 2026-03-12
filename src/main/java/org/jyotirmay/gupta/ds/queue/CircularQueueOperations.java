@@ -5,14 +5,14 @@ package org.jyotirmay.gupta.ds.queue;
  * connected end-to-end. This structure, known as a Ring Buffer, avoids the "false overflow"
  * of linear queues by reusing vacated slots at the beginning of the buffer.
  *
- * <p>This interface extends {@link Queue}, providing standard FIFO
+ * <p>This interface extends {@link QueueOperations}, providing standard FIFO
  * behavior with additional metadata for capacity-constrained environments.</p>
  *
  * @param <E> the type of elements held in this circular queue
  * @author Jyotirmay Gupta
  * @version 1.o
  */
-public interface CircularQueue<E> extends Queue<E>{
+public interface CircularQueueOperations<E> extends QueueOperations<E> {
 
     /**
      * Retrieves the most recently added item in the queue without removing it.
