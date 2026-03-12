@@ -8,7 +8,7 @@ package org.jyotirmay.gupta.ds.tree;
  * @author Jyotirmay Gupta
  * @version 1.0
  */
-public interface BinaryTree<E> {
+public interface BinaryTreeOperations<E> {
 
     /**
      * Returns the root element of the tree.
