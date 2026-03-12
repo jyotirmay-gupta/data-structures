@@ -10,7 +10,7 @@ package org.jyotirmay.gupta.ds.tree;
  * @author Jyotirmay Gupta
  * @version 1.0
  */
-public interface BinarySearchTree<E extends Comparable<E>> extends BinaryTree<E> {
+public interface BinarySearchTreeOperations<E extends Comparable<E>> extends BinaryTreeOperations<E> {
 
     /**
      * Inserts a new element into the tree while maintaining the BST property.
